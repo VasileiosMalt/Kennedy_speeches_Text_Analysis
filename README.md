@@ -1,2 +1,2 @@
-# Kennedy_speeches_Text_Analysis
+# Kennedy speeches Text Analysis
 Data Journalism analysis on political texts of Kennedy speeches
